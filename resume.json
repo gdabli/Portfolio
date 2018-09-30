@@ -1,0 +1,220 @@
+{
+  "basics": {
+    "name": "Gaurav Dabli",
+    "label": "DevOps/Software Engineer",
+    "picture": "",
+    "email": "gdabli90@outlook.com",
+    "phone": "(617) 751-8637",
+    "summary": "Gaurav is devops/software engineer. he loves building secure and falut tolerant cloud infrastracure to help clients to implement cloud based solutions to provide significant cost saving and speed to market. he is also experienced in automation using python. he loves to solve interesting techincal problems and see himself as a constant learner to achieve the same.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Richmond",
+      "countryCode": "US",
+      "region": "Virginia"
+    },
+    "profiles": [{
+        "network": "Github",
+        "username": "gdabli",
+        "url": "https://github.com/gdabli"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "gdabli",
+        "url": "https://www.linkedin.com/in/gaurav-dabli-0a98a42b"
+      },
+      {
+        "network": "Twitter",
+        "username": "gdabli",
+        "url": "https://twitter.com/gdabli"
+      }
+    ]
+  },
+  "work": [{
+      "company": "Capital One",
+      "position": "DevOps Consultant",
+      "website": "https://capitalone.com",
+      "startDate": "2017-01-01",
+      "summary": "",
+      "highlights": [
+        "Responsible for developing cloud infrastructure (AWS) for global finance teams at capital one",
+        "Developed Python utility to find PCI data on S3 bucket",
+        "Automated run of BAU processes using python",
+        "Analysed databricks thoroughly(scalaibity, user interface, features and charges) comoparing it with Amazon EMR and helped it to roll out at enterpise level within capital one",
+        "Developed shell scripts to automate Cerebro installation on Legoland (contanier servies created internally by capital one)",
+        "Architected, designed and implemented automated rehydration for Zookeeper cluster using ansible  and python, used rolling update methedology to achieve the same",
+        "Wrote ansible playbooks to create and rehydrate EC2 instances and perform software installations such as anaconda, oracle, sql server, spark, Teradata",
+        "Implemented cloud fomartion temaplted with autoscaling groups based on certain threshold (CPU  usage greater then 75% ) to maintain Ec2 cluster in AWS",
+        "Created entire AWS environment as part of TREX in west region and helped developers to migrate process in west"
+      ]
+    },
+    {
+      "company": "Wipro Limited, Client: Capital One",
+      "position": "Associate Consultant",
+      "website": "https://wipro.com",
+      "startDate": "2016-04-01",
+      "endDate": "2016-12-31",
+      "summary": "",
+      "highlights": [
+        "Worked for DevOps platform team responsible for specialization areas related to chef and ansible  For cloud automation",
+        "Wrote cookbook for haproxy installation and configuration to load balance mesos cluster",
+        "Designed cookbook to configure mesos instances to transfer logs to single splunk server",
+        "Build APIs for entire zeno framework including Kafka, zookeeper, apache marathon and mesos to sent the status of individual instance on consul for monitoring",
+        "Provided AWS environment/infrastructure support for development team"
+      ]
+    },
+    {
+      "company": "Sungard Financial Systems(now FIS)",
+      "position": "Summer Intern",
+      "website": "https://www.fisglobal.com/",
+      "startDate": "2015-06-01",
+      "endDate": "2015-09-01",
+      "summary": "",
+      "highlights": [
+        "Wrote python scripts to automate releases process",
+        "Developed chef cookbook to download tomcat server on EC2 instances",
+        "Familiarized with AWS services like EC2, S3 buckets, Cloud formation templates, cloud trail,  Auto scaling groups, virtual private cloud etc",
+        "Designed new database tables for Oracle DB as part of cross product dependency enhancements"
+      ]
+    },
+    {
+      "company": "Abhyudaya Technologies",
+      "position": "Software Engineer",
+      "startDate": "2015-06-01",
+      "endDate": "2016-12-31",
+      "highlights": [
+        "Automation testing using selenium web driver",
+        "web development using javascript",
+        "bug fixes and enhancements"
+      ]
+    }
+  ],
+  "education": [{
+      "institution": "University of Massachusetts Boston",
+      "area": "Computer Science",
+      "studyType": "Master of science",
+      "startDate": "2014-01-01",
+      "endDate": "2015-12-31"
+    },
+    {
+      "institution": "Rajiv Gandhi Technical University Bhopal",
+      "area": "Electronics and Communications",
+      "studyType": "Bachelors in Engineering",
+      "startDate": "2008-07-01",
+      "endDate": "2012-05-01"
+    }
+  ],
+  "awards": [],
+  "certifications": [{
+    "Cloud": "AWS Certified Developer Associate"
+  }],
+  "skills": [{
+      "name": "Certifications",
+      "keywords": [
+        "AWS Certified Developer Associate"
+      ]
+    },
+    {
+      "name": "Languages",
+      "level": "",
+      "keywords": [
+        "Python",
+        "Ruby",
+        "C",
+        "Java"
+      ]
+    },
+
+
+    {
+      "name": "Infrastructure",
+      "level": "",
+      "keywords": [
+        "AWS",
+        "Ansible",
+        "Chef",
+        "Jenkins"
+      ]
+    },
+    {
+      "name": "Tools",
+      "keywords": [
+        "Databricks",
+        "Cerebro/Okera",
+        "Athena",
+        "quicksight"
+      ]
+    },
+    {
+      "name": "Databases",
+      "keywords": [
+        "MongoDB",
+        "MySQL"
+      ]
+    },
+    {
+      "name": "Virtualization",
+      "keywords": [
+        "Docker"
+      ]
+    },
+    {
+      "name": "Open Source",
+      "keywords": [
+        "kafka",
+        "Zookeeper",
+        "Apache Marathon",
+        "Apache Mesos",
+        "consul"
+      ]
+    },
+    {
+      "name": "General",
+      "keywords": [
+        "github",
+        "agile methedology",
+        "Jira",
+        "Version one"
+      ]
+    }
+
+  ],
+  "languages": [{
+      "language": "English"
+    },
+    {
+      "language": "Hindi"
+    },
+    {
+      "language": "Marathi"
+    }
+  ],
+  "interests": [{
+      "name": "Running",
+      "keywords": [
+        "love it"
+      ]
+    },
+    {
+      "name": "Meditation",
+      "keywords": [
+        "vipassna meditation"
+      ]
+    },
+    {
+      "name": "Travelling",
+      "keywords": [
+        "natural beauty",
+        "country side",
+        "food"
+      ]
+    }
+  ],
+  "references": [{
+      "name": "Mike Jackson, Director Data analytics, Capital One"
+    },
+    {
+      "name": "Sujatha Selvan, Program Manager, Wipro Limited"
+    }
+  ]
+}
